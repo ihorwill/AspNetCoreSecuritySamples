@@ -10,7 +10,7 @@ using ProxyKit;
 using System;
 using System.IdentityModel.Tokens.Jwt;
 
-namespace Host
+namespace TokenServer
 {
     public class Startup
     {

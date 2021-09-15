@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
-namespace Host.Controller
+namespace TokenServer.Controller
 {
     [Route("user")]
     public class UserController : ControllerBase

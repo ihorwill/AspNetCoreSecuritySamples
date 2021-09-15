@@ -33,8 +33,7 @@ namespace Api
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers()
-                    .RequireAuthorization();
+                endpoints.MapControllers();
             });
         }
     }

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TokenServer</RootNamespace>
+    <AssemblyName>TokenServer</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
